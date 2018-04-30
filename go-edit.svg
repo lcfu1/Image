@@ -1,0 +1,11 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="42" width="42" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <image stroke="null" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA+klEQVR42u3VMQrCQBBG4QWvIOIZrGzFXvAC2tulyylypXTxAjmUE0ghIia7OyAz836YA3wPNknJ5m5yvdwg18ptUqA95MaP66JE+IYPE+EX3n2ENXi3EXLwLiM0BQGIMF9rFbxVijBYffNPuYNChN7yB08jwt36174mQuPlV1cSwQ2+JII7fE4Et/g1EdzjlyKEwJuPoIF/j7CLih8jvXnw4MGDBw8ePHjw4MGDBw/+jztFxk+7RMZrBjCJ1wpgFq8RwDS+NoB5fE0AF/jSAG7wJQFc4XMDuMNP288Rlu6cGGOMMWZlx+CXrsGPAAQgAAEIQAACECDmvQDq9AH3sUSq7AAAAABJRU5ErkJggg==" id="svg_2" height="24" width="24" y="8" x="8"/>
+ </g>
+</svg>
